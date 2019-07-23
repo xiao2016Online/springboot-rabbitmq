@@ -10,10 +10,4 @@ gen
 .gitignore
 .idea/
 README.md
-pom.xml
-springboot-consumer/
-springboot-model/
-springboot-producer/.gitignore
-springboot-producer/pom.xml
-springboot-producer/src/
-springboot-rabbitmq.iml
+
