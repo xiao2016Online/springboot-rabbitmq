@@ -1,1 +1,19 @@
 # Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+README.md
+pom.xml
+springboot-consumer/
+springboot-model/
+springboot-producer/.gitignore
+springboot-producer/pom.xml
+springboot-producer/src/
+springboot-rabbitmq.iml
